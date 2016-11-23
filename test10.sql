@@ -1,3 +1,4 @@
+USE northwind;
 SELECT COUNT(DISTINCT e.EmployeeID) AS numEmployees,
 	COUNT(DISTINCT c.CustomerID) AS numCompanies,
 	e.City, c.City
