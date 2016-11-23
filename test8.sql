@@ -1,3 +1,4 @@
+USE northwind;
 SELECT Employees.EmployeeID, Employees.FirstName,
 	Employees.LastName, Orders.OrderID, Orders.OrderDate
 FROM Employees JOIN Orders ON
