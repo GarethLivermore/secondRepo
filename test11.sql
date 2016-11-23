@@ -1,3 +1,4 @@
+USE northwind;
 SELECT CompanyName, Phone
 FROM Shippers
 	UNION
