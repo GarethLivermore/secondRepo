@@ -1,3 +1,4 @@
+USE northwind;
 SELECT c.CompanyName, COUNT(o.OrderID) AS NumOrders
 FROM Customers c JOIN Orders o ON
 	(c.CustomerID = o.CustomerID)
