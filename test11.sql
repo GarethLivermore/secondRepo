@@ -1,10 +1,10 @@
 USE northwind;
-SELECT CompanyName, Phone
-FROM Shippers
+SELECT company, business_phone
+FROM shippers
 	UNION
-SELECT CompanyName, Phone
-FROM Customers
+SELECT company, business_phone
+FROM customers
 	UNION
-SELECT CompanyName, Phone
-FROM Suppliers
-ORDER BY CompanyName;
+SELECT company, business_phone
+FROM suppliers
+ORDER BY company;    
