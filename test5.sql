@@ -1,4 +1,4 @@
 USE northwind;
-SELECT Title, FirstName, LastName
-FROM Employees
-WHERE Title = 'Sales Representative';
+SELECT job_title, first_name, last_name
+FROM employees
+WHERE job_title = 'Sales Representative';
