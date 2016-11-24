@@ -1,5 +1,5 @@
 USE northwind;
-SELECT FirstName, LastName, City, Title
-FROM Employees
-WHERE (City = 'Seattle' OR City = 'Redmond')
-	AND Title = 'Sales Representative';
+SELECT first_name, last_name, city, job_title
+FROM employees
+WHERE (city = 'Seattle' OR city = 'Redmond')
+	AND job_title = 'Sales Representative';
