@@ -1,6 +1,6 @@
 USE northwind;
-SELECT Employees.EmployeeID, Employees.FirstName,
-	Employees.LastName, Orders.OrderID, Orders.OrderDate
-FROM Employees JOIN Orders ON
-	(Employees.EmployeeID = Orders.EmployeeID)
-ORDER BY Orders.OrderDate;
+SELECT employees.id, employees.first_name,
+	employees.last_name, orders.id, orders.order_date
+FROM employees JOIN orders ON
+	(employees.id = orders.employee_id)
+ORDER BY orders.order_date;
