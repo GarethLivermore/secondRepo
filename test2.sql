@@ -1,3 +1,3 @@
 USE northwind;
-SELECT FirstName, LastName
-FROM Employees;
+SELECT first_name, last_name
+FROM employees;
