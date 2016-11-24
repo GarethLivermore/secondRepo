@@ -1,0 +1,43 @@
+company	business_phone
+Company A	(123)555-0100
+Company AA	(123)555-0100
+Company B	(123)555-0100
+Company BB	(123)555-0100
+Company C	(123)555-0100
+Company CC	(123)555-0100
+Company D	(123)555-0100
+Company E	(123)555-0100
+Company F	(123)555-0100
+Company G	(123)555-0100
+Company H	(123)555-0100
+Company I	(123)555-0100
+Company J	(123)555-0100
+Company K	(123)555-0100
+Company L	(123)555-0100
+Company M	(123)555-0100
+Company N	(123)555-0100
+Company O	(123)555-0100
+Company P	(123)555-0100
+Company Q	(123)555-0100
+Company R	(123)555-0100
+Company S	(123)555-0100
+Company T	(123)555-0100
+Company U	(123)555-0100
+Company V	(123)555-0100
+Company W	(123)555-0100
+Company X	(123)555-0100
+Company Y	(123)555-0100
+Company Z	(123)555-0100
+Shipping Company A	NULL
+Shipping Company B	NULL
+Shipping Company C	NULL
+Supplier A	NULL
+Supplier B	NULL
+Supplier C	NULL
+Supplier D	NULL
+Supplier E	NULL
+Supplier F	NULL
+Supplier G	NULL
+Supplier H	NULL
+Supplier I	NULL
+Supplier J	NULL

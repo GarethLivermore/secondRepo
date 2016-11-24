@@ -1,0 +1,11 @@
+company	fax_number	business_phone	web_page
+Supplier A	NULL	NULL	NULL
+Supplier B	NULL	NULL	NULL
+Supplier C	NULL	NULL	NULL
+Supplier D	NULL	NULL	NULL
+Supplier E	NULL	NULL	NULL
+Supplier F	NULL	NULL	NULL
+Supplier G	NULL	NULL	NULL
+Supplier H	NULL	NULL	NULL
+Supplier I	NULL	NULL	NULL
+Supplier J	NULL	NULL	NULL

@@ -1,0 +1,10 @@
+job_title	first_name	last_name
+Sales Coordinator	Laura	Giussani
+Sales Manager	Steven	Thorpe
+Sales Representative	Nancy	Freehafer
+Sales Representative	Anne	Hellung-Larsen
+Sales Representative	Jan	Kotas
+Sales Representative	Michael	Neipper
+Sales Representative	Mariya	Sergienko
+Sales Representative	Robert	Zare
+Vice President, Sales	Andrew	Cencini

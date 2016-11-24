@@ -1,0 +1,7 @@
+job_title	first_name	last_name
+Sales Representative	Nancy	Freehafer
+Sales Representative	Jan	Kotas
+Sales Representative	Mariya	Sergienko
+Sales Representative	Michael	Neipper
+Sales Representative	Robert	Zare
+Sales Representative	Anne	Hellung-Larsen
