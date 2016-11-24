@@ -1,4 +1,4 @@
 USE northwind;
-SELECT CompanyName, ContactName, Fax
-FROM Customers
-WHERE Fax IS NOT NULL;
+SELECT company, first_name, fax_number
+FROM customers
+WHERE fax_number IS NOT NULL;
