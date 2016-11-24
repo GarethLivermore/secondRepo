@@ -1,0 +1,6 @@
+first_name	last_name	city	job_title
+Nancy	Freehafer	Seattle	Sales Representative
+Jan	Kotas	Redmond	Sales Representative
+Michael	Neipper	Redmond	Sales Representative
+Robert	Zare	Seattle	Sales Representative
+Anne	Hellung-Larsen	Seattle	Sales Representative
