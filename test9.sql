@@ -1,8 +1,8 @@
 USE northwind;
-SELECT c.CompanyName, COUNT(o.OrderID) AS NumOrders
-FROM Customers c JOIN Orders o ON
-	(c.CustomerID = o.CustomerID)
-WHERE OrderDate > '1996-12-31'
-GROUP BY c.CompanyName
-HAVING COUNT(o.OrderID) > 15
+SELECT c.company, COUNT(o.id) AS NumOrders
+FROM customers c JOIN orders o ON
+	(c.id = o.customer_id)
+WHERE order_date > '2006-02-06'
+GROUP BY c.company
+HAVING COUNT(o.id) > 1
 ORDER BY NumOrders DESC;
