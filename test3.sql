@@ -1,3 +1,3 @@
 USE northwind;
-SELECT CompanyName, Fax, Phone, HomePage
-FROM Suppliers;
+SELECT company, fax_number, business_phone, web_page
+FROM suppliers;
