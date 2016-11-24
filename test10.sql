@@ -1,8 +1,8 @@
 USE northwind;
-SELECT COUNT(DISTINCT e.EmployeeID) AS numEmployees,
-	COUNT(DISTINCT c.CustomerID) AS numCompanies,
-	e.City, c.City
-FROM Employees e JOIN Customers c ON
-	(e.City = c.City)
-GROUP BY e.City, c.City
+SELECT COUNT(DISTINCT e.id) AS numEmployees,
+	COUNT(DISTINCT c.id) AS numCompanies,
+	e.city, c.city
+FROM employees e JOIN customers c ON
+	(e.city = c.city)
+GROUP BY e.city, c.city
 ORDER BY numEmployees DESC;
